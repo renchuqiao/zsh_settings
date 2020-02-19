@@ -1,0 +1,5 @@
+alias rchuqiao='ssh rchuqiao.aka.corp.amazon.com'
+alias bb='brazil-build'
+alias psql='/Library/PostgreSQL/9.6/scripts/runpsql.sh; exit'
+alias phantomjs='/Users/rchuqiao/Documents/phantomjs-2.1.1-macosx/bin/phantomjs'
+export PATH="$HOME/.cargo/bin:$PATH"
